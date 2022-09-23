@@ -7,7 +7,7 @@ servers:
   description: Quality
 paths:
   /getExtrSuppContactList:
-    post:
+    get:
       tags:
       - Get Supplier Contacts
       summary: Get supplier contact details
