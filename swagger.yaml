@@ -5,6 +5,8 @@ info:
 servers:
 - url: https://apigatewayqa.adient.com/iris/v1
   description: Quality
+- url: https://apigateway.adient.com/iris/v1
+  description: Production
 paths:
   /getExtrSuppContactList:
     get:
